@@ -1,9 +1,14 @@
 ````bash
 > help --info
-> oh hello. I'm just a beginner programmer trying to figure things out.
+> oh hello. this user is a pigeon named Juwan. 🕊️🌈
 ````
 
 ````bash
-> help --socials
-> Discord: @juwan.
+> help --contact
+> Wikimedia: https://meta.wikimedia.org/wiki/User:Juwan
+````
+
+````bash
+> help --credit
+> profile picture: Sheyenne Smith (strflr)
 ````
